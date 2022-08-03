@@ -68,8 +68,8 @@ A summary of the access policies in place can be found in the table below.
 | JBoxVM   | SSH 22 Yes          | 216.49.28.74         |
 | Web 1&2  | no                  |RedTeamLB: 13.80.19.7 |
 |RedTeamLB | HTTP 80 yes         | *                    |
- ELK-Server  Kibana 5601 yes       *
- ELK-Server  HTTP 9200 yes         10.0.0.0/16
+|ELK-Server| Kibana 5601 yes     | *                    |
+|ELK-Server| HTTP 9200 yes       | 10.0.0.0/16          |
 
 
 
