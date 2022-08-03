@@ -62,6 +62,7 @@ Only the _Jump Box____ machine can accept connections from the Internet. Access 
 
 Machines within the network can only be accessed by _Jump Box____.
 - _TODO: Which machine did you allow to access your ELK VM? What was its IP address?_
+         
           JBoxVM 
           Public IP: 20.229.138.61
           Private IP: 10.0.0.4
