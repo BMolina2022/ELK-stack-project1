@@ -102,7 +102,7 @@ Docker Module: Tells the previous PIP module to install the necessary docker com
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![TODO: Update the path with the name of your screenshot of docker ps output](https://github.com/BMolina2022/ELK-stack-project1/blob/main/Images/sudo%20docker%20ps%20project1.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
