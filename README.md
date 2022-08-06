@@ -8,7 +8,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _playbook____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+  - _TODO: Enter the playbook file._(https://github.com/BMolina2022/ELK-stack-project1/blob/main/yml-files/Elkplaybook.PNG)
 
 This document contains the following details:
 - Description of the Topologu
